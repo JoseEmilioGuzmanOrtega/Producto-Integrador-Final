@@ -14,8 +14,11 @@ Profesor: Muñoz Quintero Dante Adolfo
 4. Integrantes del Equipo
 
 García Hernández Jorge Eduardo
+
 Gaytan González Angel Alejandro
+
 Gonzalez Mercado Francisco Antonio 
+
 Guzmán Ortega José Emilio 
 
 Martinez Azuara Juan Francisco
